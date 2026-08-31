@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill 需求架构师"
+  short_description: "调查真实任务，设计、测试并教你维护 Skill"
+  default_prompt: "使用 $skill-requirements-architect 帮我调查真实需求，并逐步创建和测试一个能够完成现实任务的 Skill。"
