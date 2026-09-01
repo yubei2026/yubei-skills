@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 短片编导"
+  short_description: "把自然语言创意转化为确定剧本、拍摄方案和可生成的逐镜分镜"
+  default_prompt: "使用 $ai-video-director 帮我把这个短片创意推进为剧本、拍摄方案和逐镜生成分镜。"

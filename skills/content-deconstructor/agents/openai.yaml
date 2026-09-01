@@ -1,0 +1,4 @@
+interface:
+  display_name: "好内容拆解"
+  short_description: "拆解优秀图片与短片为什么有效，并提炼可迁移的创意和镜头方法"
+  default_prompt: "使用 $content-deconstructor 拆解这份参考内容为什么有效，并输出可迁移的方法。"

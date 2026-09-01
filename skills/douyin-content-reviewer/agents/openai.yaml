@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音短片审核"
+  short_description: "分阶段审核剧本、拍摄方案和AI分镜的抖音适配、风险与预算"
+  default_prompt: "使用 $douyin-content-reviewer 审核这份短片材料，并给出明确结论和最小修改单。"
